@@ -8,7 +8,7 @@ void main(){
     int arr[]={1,2,3,4,5,4,0,6,0};
     for(int i=0;i<sizeof(arr)/sizeof(int);i++){
         printf("%d ",arr[i]);
-        if(arr[i]==0){
+        if(arr[i]==0 && arr[i+1]!=0){
             
             swap(&arr[i+1],&arr[i]);
         }
