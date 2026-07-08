@@ -1,0 +1,5 @@
+Computer Organisation and Architecture=>50
+Digital Electronics and Microprocessor =>56
+Discrete Mathematics =>45
+Web Technology =>87
+ C programming =>90
